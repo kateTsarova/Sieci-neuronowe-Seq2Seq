@@ -12,7 +12,7 @@ Przykład działania sieci (więcej przykładów jest w pliku _raport.pdf_):
 
 ![](screenshots/oryginalny%20kod.png)
 
-_Rys. 1: oryginalny kod (błędy zaznaczone na czerwono)_
+_Rys. 1: oryginalny kod (błędy są zaznaczone na czerwono)_
 
 ![](screenshots/poprawiony%20kod.png)
 
